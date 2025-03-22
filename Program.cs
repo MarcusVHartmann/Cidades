@@ -1,0 +1,16 @@
+﻿Console.WriteLine("Santos");
+Console.WriteLine("Praia Grande");
+Console.WriteLine("São Vicente");
+Console.WriteLine("Guarujá");
+Console.WriteLine("Caraguatatuba");
+Console.WriteLine("Intanhaém");
+Console.WriteLine("Cubatão");
+Console.WriteLine("Ubatuba");
+Console.WriteLine("São Sebastião");
+Console.WriteLine("Peruíbe");
+Console.WriteLine("Bertioga");
+Console.WriteLine("Mongaguá");
+Console.WriteLine("Ilhabela");
+Console.WriteLine("Iguape");
+Console.WriteLine("Ilha Comprida");
+Console.WriteLine("Cananéia");
